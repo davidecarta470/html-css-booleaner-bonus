@@ -1,0 +1,85 @@
+*{
+  padding: 0px;
+  margin:0px;
+  box-sizing: border-box;
+}
+/* modifica del bonus */
+header{
+  width: 80%;
+  margin: auto;
+}
+.container{
+  width: 60%;
+  margin: auto;
+}
+.head{
+  background-color: rgb(98, 78, 211);
+  background-image: url(../img/pattern.png);
+  background-size:30%;
+ 
+}
+.logo{
+  width: 20%;
+  padding-top: 30px;
+}
+.autore{
+  color: gray;
+  font-size: 12px;
+}
+.nome-autore{
+  color:rgb(0, 153, 255) ;
+}
+h3{
+  margin-bottom: 0px;
+}
+/* caratteristiche foto */
+.img-berners{
+  height:250px
+}
+.img-berners1{
+  height: 100%;
+}
+.img-berners2{
+  height: 100%;
+}
+.info-foto{
+  font-size: 10px;
+}
+/* contenuti */
+.contenuti{
+  margin-bottom: 30px;
+}
+
+ul{
+  padding-left: 20px;
+}
+/* caratteristiche tabella */
+
+table{
+  margin-top: 20px;
+  margin-bottom: 20px;
+  border-collapse: collapse;
+}
+.first-row{
+  background-color: steelblue;
+  color: white;
+}
+.light-row{
+  background-color: lightskyblue;
+}
+.last-celle{
+  width: 50%;
+}
+
+
+/*fine tabella*/
+span.evidenza{
+  background-color: yellow;
+}
+.credits{
+  color: grey;
+  padding-top: 10px;
+}
+.dim-img{
+  width: 20%;
+}
